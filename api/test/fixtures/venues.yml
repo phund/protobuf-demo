@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  venue_date: 2018-04-27 13:56:01
+  artist: one
+  location: one
+
+two:
+  venue_date: 2018-04-27 13:56:01
+  artist: two
+  location: two
